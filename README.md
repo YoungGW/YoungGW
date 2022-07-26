@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungGW
 - 👀 I’m interested in VR
-- 🌱 I’m currently learning hot to Git good
+- 🌱 I’m currently learning how to Git good
 - 💞️ I’m looking to collaborate on not a lot
 - 📫 How to reach me youngga(at)tcd.ie
 
